@@ -1,6 +1,6 @@
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #f3f3f3;
+    background-color: #59d5d8;
 }
 
 #header {
@@ -50,7 +50,7 @@ header h2 {
 }
 
 .main_menu a:hover {
-    color: #ce0808;
+    color: #59d5d8
 }
 
 
